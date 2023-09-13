@@ -1,0 +1,17 @@
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.csproj.AssemblyReference.cache
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.AssemblyInfoInputs.cache
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.AssemblyInfo.cs
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.csproj.CoreCompileInputs.cache
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/bin/Debug/net6.0/Challenge
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/bin/Debug/net6.0/Challenge.deps.json
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/bin/Debug/net6.0/Challenge.runtimeconfig.json
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/bin/Debug/net6.0/Challenge.dll
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/bin/Debug/net6.0/Challenge.pdb
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.csproj.CopyComplete
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.dll
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/refint/Challenge.dll
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.pdb
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/Challenge.genruntimeconfig.cache
+/Users/vantheeramat/Downloads/DeveloperSkillTest/Challenge/obj/Debug/net6.0/ref/Challenge.dll
